@@ -1,0 +1,24 @@
+{
+  "name": "NeonBreakout",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "GlitchCity": {
+        "$path": "game/ServerScriptService/GlitchCity.server.lua"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "GlitchCity": {
+          "$path": "game/StarterPlayer/StarterPlayerScripts/GlitchCity.client.lua"
+        }
+      }
+    }
+  }
+}
