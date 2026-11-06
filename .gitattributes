@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Exclude directories from repository stats
+website/** linguist-documentation
+docs/** linguist-documentation
+scripts/** linguist-documentation
